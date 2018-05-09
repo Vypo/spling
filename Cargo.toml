@@ -1,0 +1,6 @@
+[package]
+name = "spling"
+version = "0.1.0"
+authors = ["Vypo Mouse <vypo@fursuits.by>"]
+
+[dependencies]
